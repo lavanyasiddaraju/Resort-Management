@@ -1,2 +1,2 @@
 # Resort-Management
-Author - Lavanya 
+Author - Lavanya G S
